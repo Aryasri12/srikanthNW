@@ -1,3 +1,4 @@
 # srikanthNW
-This is my first repositiry
-author-srikanth reddy
+This is my first repositiry.
+<br>
+Author-srikanth reddy
